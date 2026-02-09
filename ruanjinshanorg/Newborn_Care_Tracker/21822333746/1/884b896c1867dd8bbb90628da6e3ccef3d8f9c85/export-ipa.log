@@ -1,0 +1,5 @@
+2026-02-09 10:59:37.258 xcodebuild[15150:69629] [MT] IDEDistribution: -[IDEDistributionLogging _createLoggingBundleAtPath:]: Created bundle at path "/var/folders/yz/zr09txvs5dn18vt4cn21kzl40000gn/T/Newborn_Care_Tracker_2026-02-09_10-59-37.256.xcdistributionlogs".
+2026-02-09 10:59:37.353 xcodebuild[15150:69629] [MT] IDEDistribution: Command line name "app-store" is deprecated. Use "app-store-connect" instead.
+Exported Newborn_Care_Tracker to: /Users/runner/work/Newborn_Care_Tracker/Newborn_Care_Tracker/Newborn_Care_Tracker.ipa
+** EXPORT SUCCEEDED **
+
