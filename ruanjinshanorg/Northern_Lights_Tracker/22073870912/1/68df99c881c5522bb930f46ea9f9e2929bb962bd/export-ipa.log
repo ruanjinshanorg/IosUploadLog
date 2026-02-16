@@ -1,0 +1,4 @@
+2026-02-16 18:34:25.504 xcodebuild[4189:19874] [MT] IDEDistribution: -[IDEDistributionLogging _createLoggingBundleAtPath:]: Created bundle at path "/var/folders/w0/cd8qgn052r16zsblrrxl1gxw0000gn/T/NorthernLightsTracker_2026-02-16_18-34-25.502.xcdistributionlogs".
+Exported NorthernLightsTracker to: /Users/runner/work/Northern_Lights_Tracker/Northern_Lights_Tracker/NorthernLightsTracker.ipa
+** EXPORT SUCCEEDED **
+
