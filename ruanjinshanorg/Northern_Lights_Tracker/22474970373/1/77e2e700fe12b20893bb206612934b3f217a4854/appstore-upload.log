@@ -1,0 +1,11 @@
+Running altool at path '/Applications/Xcode_16.4.app/Contents/SharedFrameworks/ContentDeliveryServices.framework/Frameworks/AppStoreService.framework/Support/altool'...
+2026-02-27 06:07:55.332 ERROR: [altool.60000067C1C0] [ContentDelivery.Uploader.60000067C1C0] The provided entity includes an attribute with a value that has already been used (-19232) The bundle version must be higher than the previously uploaded version: ‘3’. (ID: bbb4cda0-6cae-4b24-9e70-f812a64f55bb)
+2026-02-27 06:07:55.334 ERROR: [altool.60000067C1C0] Error uploading 'NorthernLightsTracker.ipa/NorthernLightsTracker.ipa'.
+2026-02-27 06:07:55.334 ERROR: [altool.60000067C1C0] The provided entity includes an attribute with a value that has already been used The bundle version must be higher than the previously uploaded version: ‘3’. (ID: bbb4cda0-6cae-4b24-9e70-f812a64f55bb) (-19232)
+ {
+    NSLocalizedDescription = "The provided entity includes an attribute with a value that has already been used";
+    NSLocalizedFailureReason = "The bundle version must be higher than the previously uploaded version: \U20183\U2019. (ID: bbb4cda0-6cae-4b24-9e70-f812a64f55bb)";
+    NSUnderlyingError = "Error Domain=IrisAPI Code=-19241 \"The provided entity includes an attribute with a value that has already been used\" UserInfo={status=409, detail=The bundle version must be higher than the previously uploaded version., source={\n    pointer = \"/data/attributes/cfBundleVersion\";\n}, id=bbb4cda0-6cae-4b24-9e70-f812a64f55bb, code=ENTITY_ERROR.ATTRIBUTE.INVALID.DUPLICATE, title=The provided entity includes an attribute with a value that has already been used, meta={\n    previousBundleVersion = 3;\n}, NSLocalizedDescription=The provided entity includes an attribute with a value that has already been used, NSLocalizedFailureReason=The bundle version must be higher than the previously uploaded version.}";
+    "iris-code" = "ENTITY_ERROR.ATTRIBUTE.INVALID.DUPLICATE";
+    previousBundleVersion = 3;
+}
